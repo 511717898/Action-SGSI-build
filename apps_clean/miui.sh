@@ -10,6 +10,12 @@ CameraTools
 Mipay
 MiuiBugReport
 MiuiCamera
+CatchLog
+MiService
+MiSound
+MIUIAod
+NQNfcNci
+Updater
 "
 
 for delete_dir in $apps_dir ;do
