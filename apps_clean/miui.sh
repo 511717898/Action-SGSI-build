@@ -16,6 +16,8 @@ MiSound
 MIUIAod
 NQNfcNci
 Updater
+MiuiVideo
+Music
 "
 
 for delete_dir in $apps_dir ;do
