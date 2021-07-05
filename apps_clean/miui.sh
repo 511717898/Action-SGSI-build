@@ -11,13 +11,14 @@ Mipay
 MiuiBugReport
 MiuiCamera
 CatchLog
-MiService
+MIService
 MiSound
 MIUIAod
 NQNfcNci
 Updater
 MiuiVideo
 Music
+MiuiGallery
 "
 
 for delete_dir in $apps_dir ;do
