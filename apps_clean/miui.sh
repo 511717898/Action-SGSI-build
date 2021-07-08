@@ -19,6 +19,8 @@ Updater
 MiuiVideo
 Music
 MiuiGallery
+MiuiAod
+MiService
 "
 
 for delete_dir in $apps_dir ;do
