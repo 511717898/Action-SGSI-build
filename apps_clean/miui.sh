@@ -8,6 +8,7 @@ systemdir=$1
 apps_dir="
 CameraTools
 Mipay
+MIpay
 MiuiBugReport
 MiuiCamera
 CatchLog
@@ -18,7 +19,6 @@ NQNfcNci
 Updater
 MiuiVideo
 Music
-MiuiGallery
 MiuiAod
 MiService
 "
