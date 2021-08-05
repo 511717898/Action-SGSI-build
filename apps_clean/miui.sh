@@ -7,20 +7,31 @@ systemdir=$1
 
 apps_dir="
 CameraTools
+Camera
 Mipay
 MIpay
 MiuiBugReport
+MIUIBugReport
 MiuiCamera
+MIUICamera
 CatchLog
 MIService
+MiService
 MiSound
+MISound
 MIUIAod
+MiuiAod
 NQNfcNci
 Updater
 MiuiVideo
+MIUIVideo
 Music
-MiuiAod
-MiService
+music
+Browser
+MIUIGallery
+MiuiGallery
+Mirror
+MIrror
 "
 
 for delete_dir in $apps_dir ;do
