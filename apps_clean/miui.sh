@@ -32,6 +32,8 @@ MIUIGallery
 MiuiGallery
 Mirror
 MIrror
+QCC-AUTHMGR
+QCC
 "
 
 for delete_dir in $apps_dir ;do
