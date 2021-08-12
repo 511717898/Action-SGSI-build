@@ -34,6 +34,9 @@ Mirror
 MIrror
 QCC-AUTHMGR
 QCC
+GmsCore
+GooglePlayServicesUpdater
+GoogleServicesFramework
 "
 
 for delete_dir in $apps_dir ;do
