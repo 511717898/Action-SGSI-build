@@ -37,6 +37,7 @@ QCC
 GmsCore
 GooglePlayServicesUpdater
 GoogleServicesFramework
+SogouInput
 "
 
 for delete_dir in $apps_dir ;do
