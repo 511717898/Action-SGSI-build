@@ -37,6 +37,8 @@ QCC
 GmsCore
 GooglePlayServicesUpdater
 GoogleServicesFramework
+MIUIQuickSearchBox
+MiuiQuickSearchBox
 "
 
 for delete_dir in $apps_dir ;do
