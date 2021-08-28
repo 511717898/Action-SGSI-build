@@ -39,6 +39,13 @@ GooglePlayServicesUpdater
 GoogleServicesFramework
 MIUIQuickSearchBox
 MiuiQuickSearchBox
+QuickSearchBox
+Backup
+SogouInput
+talkback
+TrichromeLibrary
+UPTsmService
+WebViewGoogle
 "
 
 for delete_dir in $apps_dir ;do
