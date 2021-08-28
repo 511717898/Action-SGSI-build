@@ -46,6 +46,7 @@ talkback
 TrichromeLibrary
 UPTsmService
 WebViewGoogle
+VoiceTrigger
 "
 
 for delete_dir in $apps_dir ;do
