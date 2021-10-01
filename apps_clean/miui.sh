@@ -42,10 +42,7 @@ MiuiQuickSearchBox
 QuickSearchBox
 Backup
 SogouInput
-talkback
-TrichromeLibrary
 UPTsmService
-WebViewGoogle
 VoiceTrigger
 "
 
