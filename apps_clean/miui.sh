@@ -6,7 +6,6 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-CameraTools
 Camera
 Mipay
 MIpay
@@ -22,7 +21,6 @@ MISound
 MIUIAod
 MiuiAod
 NQNfcNci
-Updater
 MiuiVideo
 MIUIVideo
 Music
